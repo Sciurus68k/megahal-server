@@ -20,8 +20,4 @@ Megahal will load brains from the present working directory. Best way to make th
 
 TODO:
 * Return JSON instead of text
-* Pass text in URL instead of query parameter
-* Port number in cmdline params
 * What's up with saving brains periodically - does that work?
-* Run as service instead of interactive
-* Parameter that controls brain directory
